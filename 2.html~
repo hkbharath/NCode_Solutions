@@ -1,0 +1,17 @@
+<pre>
+<div><p>
+ 	This weekend Gopal is going for a movie festival and he wants to watch as many movies as he can. Gopal should spend Rs. Ci to watch ith 
+ movie. He has only Rs. K. Now you task is to select the maximum number movies from the list of given movies, that Gopal can afford to 
+ watch.
+ </p></div>
+ <p>Input</p>
+ <p>
+ First line contains T, number of testcases.
+ First line each test case contains N, Total number of movies that will be screened in the festival.
+ Next N lines contains name of the ith movie and cost Ci, sperated by double space.
+ </p>
+ <p>Output<p>
+ ,For each testcase output the names of all selected movies in the increasing order of their cost.
+   
+ 
+ 
